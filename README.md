@@ -45,7 +45,7 @@ Although this increased the conceptual knowledge need to use Android, I believe 
 
 ## Question - Why has Android not embraced the MVC way?
 
-Ah, the Model View Controller (MVC) pattern is well loved by many, especially amoung those who have followed the Apple way (as opposed to the Google way). 
+Ah, the Model View Controller (MVC) pattern is well loved by many, especially amoung those who have followed the Apple path. 
 
 [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
