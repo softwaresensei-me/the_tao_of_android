@@ -22,9 +22,9 @@ This meta pattern breaks Android applications into 4 conceptual parts each with 
 - **ViewModel**: The view model is a bridge that converts the data provided by the model to make display and presentation of the data as easy as possible.
   - In Android this is typically a ViewModel class associated with a Activity or Fragment.
   - Use LiveData and MutableLiveData to provide data updates.
-  - It also solves the problem of Activies or Fragments being destroyed when a phone is rotated.
+  - It also solves the problem of Activities or Fragments being destroyed when a phone is rotated.
   <add example code>
-- **Controllers**: Typically Activies and Fragment used to bind data provided by the Model/ViewModel to the Views.
+- **Controllers**: Typically Activities and Fragments used to bind data provided by the Model/ViewModel to the Views.
   <add example code>
 
 - **Views**: Typically XML layout files that are data agnostic and used to display information. 
