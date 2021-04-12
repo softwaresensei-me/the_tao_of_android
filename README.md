@@ -51,7 +51,7 @@ Ah, the Model View Controller (MVC) pattern is well loved by many, especially am
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/218px-MVC-Process.svg.png">
 
-For many years the MVC way was embraced by the Google. However, the dreaded *[rotate phone bug](https://stackoverflow.com/questions/27233787/why-the-android-activity-gets-destroyed-on-rotation)*, a persistent thorn to all Android masters and padawans, was only put to rest by the advent of ViewModels and the adoption of the MVVM way. 
+For many years the MVC way was embraced by the Google. However, the dreaded *[rotate phone bug](https://stackoverflow.com/questions/27233787/why-the-android-activity-gets-destroyed-on-rotation)*, a persistent thorn to all Android masters and padawans, was only plucked out by the advent of ViewModels and the adoption of the MVVM way. 
 >## Enlightenment: Embrace the Google Way
 >Although the Google is fallible (see our commentary on the MVP way), for the wise sofware padawan it is best to embrace the Google way when traveling the Android path to software enlightenment.
 
